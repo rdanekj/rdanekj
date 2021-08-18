@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rdanekj. You can just call me Dane. I am a simple Jamaican looking to expand my world.
+- 👋 Hi, I’m @rdanekj. You can just call me Dane. I am a simple Jamaican looking to expand my world and learn as much as possible
 - 👀 I’m interested in becoming a data analysist and learning more about data exploration. MAstering data is the key to moving forward.
 - 🌱 I’m currently learning SQL and R language
 - 💞️ I’m looking to collaborate on projects that can help an individual or the world. 
